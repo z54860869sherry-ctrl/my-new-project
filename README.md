@@ -26,7 +26,7 @@ The solution will be deployed as an intuitive cloud-based web platform and an AP
 3. **Download & Print:** The system outputs a standardized 3D-printable (.STL) or tactile embossable file ready for physical production.
 
 Below is an illustration of tactile conceptual exploration:
-![Tactile Exploration](https://upload.wikimedia.org/wikipedia/commons/5/5a/Sleeping_cat_on_her_back.jpg)
+![Tactile Exploration Example](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80)
 
 ## Data sources and AI methods
 
